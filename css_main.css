@@ -18,8 +18,36 @@ body{
 	text-align:left;
 }
 
+#banner_l{
+	margin:0 auto;
+	width:50%;height:5%;
+	float:left;
+}
+
 #content{
 	margin:0 auto;
 	width:90%;height:70%;
 	color:#555555;
+}
+
+#banner ul{
+	margin-left:-3.4%;
+	margin-top:1.6%;
+	list-style-type:none;
+}
+
+#index li{
+	display:inline;
+	margin:0 0.7% 0 0.7%;
+	padding:0 0.5% 0 0.5%;
+}
+
+#banner a{
+	color:#d6d5cc;
+	text-decoration:none;
+}
+
+#banner a:hover{
+	color:#f6f5ec;
+	text-decoration:none;
 }
